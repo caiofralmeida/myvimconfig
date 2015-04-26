@@ -24,6 +24,10 @@ set expandtab
 "Syntax
 syntax on
 
+"Color schema by Solarized
+set background=dark
+colorscheme solarized
+
 "Allow mouse
 set mouse=a
 
